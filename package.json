@@ -1,0 +1,18 @@
+{
+  "name": "trade-intelligence",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "15.3.0",
+    "react": "^19",
+    "react-dom": "^19",
+    "@supabase/supabase-js": "^2.39.0",
+    "xlsx": "^0.18.5",
+    "groq-sdk": "^0.3.3"
+  }
+}
